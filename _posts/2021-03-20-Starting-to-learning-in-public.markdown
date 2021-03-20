@@ -1,8 +1,12 @@
 
 
-The year started with me looking for new ways to approach my personal and professional development.
+This year I've been looking for new ways to approach my personal and professional development.
 
-I usually take an informal self-guided approach to learning, where I rapidly gain a simple understanding of the key ideas and framework of a topic, before diving right in to find practical ways to apply and learn by doing.  In practice, that usually starts with an [online search](https://duckduckgo.com/) for and reading multiple articles/journals that already distil down the key ideas.
+In the past I've chosen to learn topics that help me face a current challenge, or relate to something that I enjoy doing.  
+
+Recently that's been agile and lean principles - to help my work team develop and excel.   For fun, I've been learning Python for statistical analysis. 
+
+This year I want to reduce what I call 'knowledge hoarding'.  This is where I gather and store info on a topic, with no guarantee I'll need it or use it.  Instead, I want to move towards a type of ['just in time'](https://duckduckgo.com/?q=just+in+time+production+meaning&atb=v265-3&ia=web) learning model, where I choose a project and learn the minimum skills I need to deliver it.
 
 Using this approach and following my curiosity - I tumbled down an online rabbit hole...
 
